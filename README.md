@@ -24,7 +24,7 @@ Total Orders = DISTINCTCOUNT(Pizza_sold[Order ID])
 
 
 ---
-## Business Questions Answered
+## **Business Questions Answered**
 This dashboard helps to answer the following questions:
 
 - What is the total revenue, order count, and average pizza per order?
@@ -36,7 +36,7 @@ This dashboard helps to answer the following questions:
 - Which pizzas are ordered the most and the least?
 
 ---
-## Visuals in the Dashboard
+## **Visuals in the Dashboard**
 The dashboard includes the following charts:
 
 - Percentage of Sales by Pizza Category – Donut Chart
@@ -52,19 +52,19 @@ The dashboard includes the following charts:
 - Bottom 5 Pizzas by Revenue – Bar Chart
 
 ---
-## Tools Used
+## **Tools Used**
   - Power BI Desktop
   - Power Query (for pre-processing)
   - DAX (Data Analysis Expressions)
 
 ---
-## How to Use
+## **How to Use**
   -Clone or download this repository.
   -Open the Pizza_Sales_Report.pbix file using Power BI Desktop.
   -Ensure the Pizza_sold.csv file is available in the same folder or update the data source path.
   -Explore and interact with the dashboard visuals.
 
-👤 Author
+**👤 Author**
 Rakibul Islam
 rir.rakibulislam@gmail.com
 
