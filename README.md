@@ -24,7 +24,7 @@ Total Orders = DISTINCTCOUNT(Pizza_sold[Order ID])
 
 
 ---
-## **Business Questions Answered**
+##  **Business Questions Answered**
 This dashboard helps to answer the following questions:
 
 - What is the total revenue, order count, and average pizza per order?
