@@ -64,7 +64,7 @@ The dashboard includes the following charts:
   -Ensure the Pizza_sold.csv file is available in the same folder or update the data source path.
   -Explore and interact with the dashboard visuals.
 
-**👤 Author**
+👤 Author
 Rakibul Islam
 rir.rakibulislam@gmail.com
 
